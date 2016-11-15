@@ -1,2 +1,1 @@
-print('GoodBy');
-print('GoodBy');
+print('GoodBye');
