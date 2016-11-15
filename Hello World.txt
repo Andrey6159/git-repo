@@ -8,3 +8,4 @@ print("Hello all");
 print("Hello Master");
 print("Hello Master2");
 
+print('Hello My dear Friend');
